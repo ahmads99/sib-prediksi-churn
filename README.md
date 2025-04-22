@@ -1,7 +1,7 @@
 # Data Analyst Project: Business Decision Research
 
 ## Deskripsi Proyek
-Proyek ini bertujuan untuk menganalisis data pelanggan dan memprediksi kemungkinan **churn** (pelanggan yang berhenti berlangganan) menggunakan teknik data science dan machine learning. Data yang digunakan berisi informasi tentang pelanggan seperti **gender**, **tenure**, **service** yang digunakan, dan **monthly charges**.
+Proyek ini bertujuan untuk menganalisis data pelanggan dan memprediksi kemungkinan **churn** (pelanggan yang berhenti berlangganan) menggunakan teknik data science dan machine learning. Data yang digunakan berisi informasi tentang pelanggan.
 
 ## Tujuan
 - Menganalisis faktor-faktor yang mempengaruhi churn pelanggan.
